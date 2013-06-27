@@ -6,7 +6,9 @@
 
     Version 5.21, created on 04/22/87 at 15:05:10
 
-(C) COPYRIGHT 1985-87 by System Enhancement Associates; ALL RIGHTS RESERVED
+    (C) COPYRIGHT 1985-87 by System Enhancement Associates.
+    You may copy and distribute this program freely,
+    under the terms of the General Public License.
 
     By:	 Thom Henderson
 

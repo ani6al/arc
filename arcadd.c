@@ -7,7 +7,9 @@
  * 
  * Version 3.40, created on 06/18/86 at 13:10:18
  * 
- * (C) COPYRIGHT 1985,86 by System Enhancement Associates; ALL RIGHTS RESERVED
+ * (C) COPYRIGHT 1985,86 by System Enhancement Associates.
+ * You may copy and distribute this program freely,
+ * under the terms of the General Public License.
  * 
  * By:  Thom Henderson
  * 
