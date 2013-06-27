@@ -70,29 +70,12 @@ char *arg[];			       /* pointers to arguments */
 
     if(nargs<3)
     {	 printf("MARC - Archive merger, Version 5.21p, created on 08/07/2010\n");
-/*	 printf("(C) COPYRIGHT 1985,86,87 by System Enhancement Associates;");
-	 printf(" ALL RIGHTS RESERVED\n\n");
+/*	 printf("(C) COPYRIGHT 1985,86,87 by System Enhancement Associates\n");
 	 printf("Please refer all inquiries to:\n\n");
 	 printf("	System Enhancement Associates\n");
 	 printf("	21 New Street, Wayne NJ 07470\n\n");
 	 printf("You may copy and distribute this program freely,");
-	 printf(" provided that:\n");
-	 printf("    1)	  No fee is charged for such copying and");
-	 printf(" distribution, and\n");
-	 printf("    2)	  It is distributed ONLY in its original,");
-	 printf(" unmodified state.\n\n");
-	 printf("If you like this program, and find it of use, then your");
-	 printf(" contribution will\n");
-	 printf("be appreciated.  You may not use this product in a");
-	 printf(" commercial environment\n");
-	 printf("or a governmental organization without paying a license");
-	 printf(" fee of $35.  Site\n");
-	 printf("licenses and commercial distribution licenses are");
-	 printf(" available.  A program\n");
-	 printf("disk and printed documentation are available for $50.\n");
-	 printf("\nIf you fail to abide by the terms of this license, ");
-	 printf(" then your conscience\n");
-	 printf("will haunt you for the rest of your life.\n\n");
+	 printf(" under the terms of the General Public License.\n");
 */
 	 printf("Usage: MARC <tgtarc> <srcarc> [<filename> . . .]\n");
 	 printf("Where: <tgtarc> is the archive to add files to,\n");
