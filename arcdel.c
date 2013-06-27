@@ -1,8 +1,4 @@
 /*
- * $Header: /cvsroot/arc/arc/arcdel.c,v 1.2 2003/10/31 02:22:36 highlandsun Exp $
- */
-
-/*
  * ARC - Archive utility - ARCDEL
  * 
  * Version 2.09, created on 02/03/86 at 22:53:27

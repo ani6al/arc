@@ -1,8 +1,4 @@
 /*
- * $Header: /cvsroot/arc/arc/arcadd.c,v 1.4 2005/10/12 15:22:18 highlandsun Exp $
- */
-
-/*
  * ARC - Archive utility - ARCADD
  * 
  * Version 3.40, created on 06/18/86 at 13:10:18

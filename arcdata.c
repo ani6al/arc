@@ -1,7 +1,3 @@
-/*
- * $Header: /cvsroot/arc/arc/arcdata.c,v 1.2 2003/10/31 02:22:36 highlandsun Exp $
- */
-
 /*  ARC - Archive utility - ARCDATA
 
     Version 2.17, created on 04/22/87 at 13:09:43

@@ -1,7 +1,3 @@
-/*
- * $Header: /cvsroot/arc/arc/arcsvc.c,v 1.4 2005/10/09 01:38:22 highlandsun Exp $
- */
-
 /*  ARC - Archive utility - ARCSVC
 
     Version 2.23, created on 04/22/87 at 13:10:10

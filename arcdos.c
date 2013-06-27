@@ -1,8 +1,4 @@
 /*
- * $Header: /cvsroot/arc/arc/arcdos.c,v 1.3 2003/10/31 02:32:19 highlandsun Exp $
- */
-
-/*
  * ARC - Archive utility - ARCDOS
  * 
  * Version 1.44, created on 07/25/86 at 14:17:38

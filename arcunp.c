@@ -1,8 +1,4 @@
 /*
- * $Header: /cvsroot/arc/arc/arcunp.c,v 1.2 2003/10/31 02:22:36 highlandsun Exp $
- */
-
-/*
  * ARC - Archive utility - ARCUNP
  * 
  * Version 3.17, created on 02/13/86 at 10:20:08

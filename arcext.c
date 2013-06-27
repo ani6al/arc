@@ -1,8 +1,4 @@
 /*
- * $Header: /cvsroot/arc/arc/arcext.c,v 1.5 2005/10/12 15:22:18 highlandsun Exp $
- */
-
-/*
  * ARC - Archive utility - ARCEXT
  * 
  * Version 2.19, created on 10/24/86 at 14:53:32

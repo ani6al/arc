@@ -1,8 +1,4 @@
 /*
- * $Header: /cvsroot/arc/arc/arclzw.c,v 1.3 2005/10/08 20:24:37 highlandsun Exp $
- */
-
-/*
  * ARC - Archive utility - ARCLZW
  *
  * Version 2.03, created on 10/24/86 at 11:46:22

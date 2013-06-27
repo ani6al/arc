@@ -1,7 +1,3 @@
-/*
- * $Header: /cvsroot/arc/arc/arcpack.c,v 1.3 2005/10/09 02:14:47 highlandsun Exp $
- */
-
 /*  ARC - Archive utility - ARCPACK
 
     Version 3.49, created on 04/21/87 at 11:26:51

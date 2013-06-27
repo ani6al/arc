@@ -1,7 +1,3 @@
-/*
- * $Header: /cvsroot/arc/arc/arc.h,v 1.2 2003/10/31 02:22:36 highlandsun Exp $
- */
-
 #undef	DOS	/* Just in case... */
 #undef	UNIX
 

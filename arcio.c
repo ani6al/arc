@@ -1,7 +1,3 @@
-/*
- * $Header: /cvsroot/arc/arc/arcio.c,v 1.4 2005/10/12 15:22:18 highlandsun Exp $
- */
-
 /*  ARC - Archive utility - ARCIO
 
     Version 2.50, created on 04/22/87 at 13:25:20

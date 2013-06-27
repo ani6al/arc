@@ -1,4 +1,3 @@
-# $Header: /cvsroot/arc/arc/Makefile,v 1.8 2010/08/07 13:06:11 k_reimer Exp $
 #       Makefile for portable ARC
 #
 # Originals from Dan Lanciani, James Turner, and others...
@@ -137,4 +136,4 @@ install: all
 	install -s -m 0755 -D marc $(DESTDIR)$(PREFIX)/bin/marc
 	install -m 0644 -D arc.1 $(DESTDIR)$(PREFIX)/share/man/man1/arc.1
 	install -m 0644 -D marc.1 $(DESTDIR)$(PREFIX)/share/man/man1/marc.1
-	 	
+

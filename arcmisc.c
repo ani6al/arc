@@ -1,6 +1,6 @@
 /*
  * Miscellaneous routines to get ARC running on non-MSDOS systems...
- * $Header: /cvsroot/arc/arc/arcmisc.c,v 1.4 2005/10/09 01:38:22 highlandsun Exp $ 
+ *
  * You may copy and distribute this program freely,
  * under the terms of the General Public License.
  */

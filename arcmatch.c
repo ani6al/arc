@@ -1,8 +1,4 @@
 /*
- * $Header: /cvsroot/arc/arc/arcmatch.c,v 1.2 2003/10/31 02:22:36 highlandsun Exp $
- */
-
-/*
  * ARC - Archive utility - ARCMATCH
  * 
  * Version 2.17, created on 12/17/85 at 20:32:18

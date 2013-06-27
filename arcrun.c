@@ -1,8 +1,4 @@
 /*
- * $Header: /cvsroot/arc/arc/arcrun.c,v 1.8 2005/10/12 15:22:18 highlandsun Exp $
- */
-
-/*
  * ARC - Archive utility - ARCRUN
  * 
  * Version 1.20, created on 03/24/86 at 19:34:31

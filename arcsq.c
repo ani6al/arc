@@ -1,8 +1,4 @@
 /*
- * $Header: /cvsroot/arc/arc/arcsq.c,v 1.2 2003/10/31 02:22:36 highlandsun Exp $
- */
-
-/*
  * ARC - Archive utility - ARCSQ
  *
  * Version 3.10, created on 01/30/86 at 20:10:46

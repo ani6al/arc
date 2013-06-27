@@ -1,8 +1,4 @@
 /*
- * $Header: /cvsroot/arc/arc/arcs.h,v 1.2 2003/10/31 02:22:36 highlandsun Exp $
- */
-
-/*
  * ARC - Archive utility - Archive file header format
  * 
  * Version 2.12, created on 12/17/85 at 14:40:26

@@ -1,7 +1,3 @@
-/*
- * $Header: /cvsroot/arc/arc/marc.c,v 1.6 2010/08/07 13:06:11 k_reimer Exp $
- */
-
 /*  MARC - Archive merge utility
 
     Version 5.21, created on 04/22/87 at 15:05:10
