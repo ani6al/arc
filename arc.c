@@ -129,7 +129,7 @@ main(num, arg)			/* system entry point */
 #endif
 
 	if (num < 3) {
-		printf("ARC - Archive utility, Version 5.21p, created on 08/07/2010\n");
+		printf("ARC - Archive utility, Version 5.21q, created on 06/27/2013\n");
 /*		printf("(C) COPYRIGHT 1985,86,87 by System Enhancement Associates\n");
 		printf("Please refer all inquiries to:\n\n");
 		printf("       System Enhancement Associates\n");

@@ -67,7 +67,7 @@ char *arg[];			       /* pointers to arguments */
 
 
     if(nargs<3)
-    {	 printf("MARC - Archive merger, Version 5.21p, created on 08/07/2010\n");
+    {	 printf("MARC - Archive merger, Version 5.21q, created on 08/07/2010\n");
 /*	 printf("(C) COPYRIGHT 1985,86,87 by System Enhancement Associates\n");
 	 printf("Please refer all inquiries to:\n\n");
 	 printf("	System Enhancement Associates\n");
