@@ -1,3 +1,11 @@
+                        CHANGES IN VERSION 5.21q
+        (Anibal Monsalve Salazar <anibal@debian.org>, 27 Jun 2013)
+
+Relicense under the terms of the General Public License.  See:
+  - http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=641449
+  - https://bugzilla.redhat.com/show_bug.cgi?id=947786
+Remove old csv header lines
+
                         CHANGES IN VERSION 5.21p
                  (Klaus Reimer <k@ailis.de>, 07 Aug 2010)
 

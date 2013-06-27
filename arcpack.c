@@ -1,12 +1,10 @@
-/*
- * $Header: /cvsroot/arc/arc/arcpack.c,v 1.3 2005/10/09 02:14:47 highlandsun Exp $
- */
-
 /*  ARC - Archive utility - ARCPACK
 
     Version 3.49, created on 04/21/87 at 11:26:51
 
-(C) COPYRIGHT 1985-87 by System Enhancement Associates; ALL RIGHTS RESERVED
+    (C) COPYRIGHT 1985-87 by System Enhancement Associates.
+    You may copy and distribute this program freely,
+    under the terms of the General Public License.
 
     By:	 Thom Henderson
 

@@ -1,13 +1,11 @@
 /*
- * $Header: /cvsroot/arc/arc/arccode.c,v 1.2 2003/10/31 02:22:36 highlandsun Exp $
- */
-
-/*
  * ARC - Archive utility - ARCCODE
  * 
  * Version 1.02, created on 01/20/86 at 13:33:35
  * 
- * (C) COPYRIGHT 1985 by System Enhancement Associates; ALL RIGHTS RESERVED
+ * (C) COPYRIGHT 1985-87 by System Enhancement Associates.
+ * You may copy and distribute this program freely,
+ * under the terms of the General Public License.
  * 
  * By:	Thom Henderson
  * 

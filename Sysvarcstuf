@@ -124,7 +124,6 @@ echo 'x - scandir.3'
 if test -f scandir.3; then echo 'shar: not overwriting scandir.3'; else
 sed 's/^X//' << '________This_Is_The_END________' > scandir.3
 X.TH SCANDIR 3
-X.\" $Header: /cvsroot/arc/arc/Sysvarcstuf,v 1.2 2003/10/31 02:22:36 highlandsun Exp $
 X.SH NAME
 Xscandir, alphasort \- scan a directory
 X.SH SYNOPSIS
