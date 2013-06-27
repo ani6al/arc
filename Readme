@@ -89,12 +89,12 @@ the programs behave indentically. Note that ARC521.DOC is identical to
 ARC520.DOC - the differences between the two versions are described in
 the file CHANGES.521.
  
-Oh yeah - this program may be distributed freely so long as you don't
-modify it in any way. You may not charge for distributing it. (Don't
-feel bad, I can't charge for it either. }-) It'd be nice if you kept
-this and the other enclosed doc files with it when distributing, but
-I'm not going to make a fuss about it. Most people are so familiar
-with the program by now that it wouldn't matter much anyway. You
+Oh yeah - this program may be distributed freely under the terms of
+the GNU General Public License (See COPYING for license details).
+
+It'd be nice if you kept this and the other enclosed doc files with it when
+distributing, but I'm not going to make a fuss about it. Most people are so
+familiar with the program by now that it wouldn't matter much anyway. You
 should keep this README file around, so bug reports & such will find
 their way back to me. (Bugs? What bugs? Nah, there aren't any bugs...)
  

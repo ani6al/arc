@@ -1,12 +1,10 @@
-/*
- * $Header: /cvsroot/arc/arc/arcio.c,v 1.4 2005/10/12 15:22:18 highlandsun Exp $
- */
-
 /*  ARC - Archive utility - ARCIO
 
     Version 2.50, created on 04/22/87 at 13:25:20
 
-(C) COPYRIGHT 1985,86 by System Enhancement Associates; ALL RIGHTS RESERVED
+    (C) COPYRIGHT 1985-87 by System Enhancement Associates.
+    You may copy and distribute this program freely,
+    under the terms of the General Public License.
 
     By:	 Thom Henderson
 

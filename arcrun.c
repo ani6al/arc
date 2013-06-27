@@ -1,13 +1,11 @@
 /*
- * $Header: /cvsroot/arc/arc/arcrun.c,v 1.8 2005/10/12 15:22:18 highlandsun Exp $
- */
-
-/*
  * ARC - Archive utility - ARCRUN
  * 
  * Version 1.20, created on 03/24/86 at 19:34:31
  * 
- * (C) COPYRIGHT 1985,85 by System Enhancement Associates; ALL RIGHTS RESERVED
+ * (C) COPYRIGHT 1985-87 by System Enhancement Associates.
+ * You may copy and distribute this program freely,
+ * under the terms of the General Public License.
  * 
  * By:  Thom Henderson
  * 

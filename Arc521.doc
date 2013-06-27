@@ -42,7 +42,8 @@
                  (C)COPYRIGHT 1985,86
                           by
           System Enhancement Associates, Inc.
-                  ALL RIGHTS RESERVED
+    You may copy and distribute this program freely,
+     under the terms of the General Public License.
 
 
 
@@ -60,7 +61,8 @@ Associates, Inc. in October of 1986.
 Section                                           Page
 
 
-Introduction  ....................................   1
+License  .........................................   1
+Introduction  ....................................   2
 Using ARC  .......................................   3
 ARC commands  ....................................   5
     Adding files  ................................   5
@@ -81,7 +83,6 @@ MARC  ............................................  19
 ARCE  ............................................  20
 Version numbers  .................................  21
 Common questions and answers  ....................  22
-Maintenance contracts  ...........................  24
 Revision history  ................................  25
     Changes in version 3  ........................  25
     Changes in version 4  ........................  25
@@ -94,7 +95,6 @@ Revision history  ................................  25
     Changes in version 5.2  ......................  30
 Program history and credits  .....................  31
 Bulletin boards  .................................  33
-Site licenses  ...................................  34
 
 
 
@@ -108,80 +108,65 @@ Site licenses  ...................................  34
 
 
 
-         INTRODUCTION
+
+         LICENSE
 
 
 
-ARC is the copyrighted property of System Enhancement
-Associates, Inc.  You are granted a limited license to
-use ARC, and to copy it and distribute it, provided
-that the following conditions are met:
-
-1) No fee may be charged for such copying and
-   distribution.
-
-2) ARC may ONLY be distributed in its original,
-   unmodified state.
-
-3) ARC may *not* be distributed, in whole or in part, as
-   part of any commercial product or service without
-   the express written permission of System
-   Enhancement Associates.
-
-
-Contributions for the use of this program will be
-appreciated, and should be sent to:
-
-          System Enhancement Associates, Inc.
-             21 New Street, Wayne NJ 07470
-
-You may not use this product in a commercial
-environment or a governmental organization without
-paying a license fee of $35.  Site licenses and
-commercial distribution licenses are available.  A
-program disk and printed documentation are available
-for $50.  See the order form enclosed with this manual
-for more details.
+ARC is Free Software distributed under the terms of the GNU General Public
+License (See COPYING for license details).
 
 
 
-ARC is user supported software.  This means that you
-may copy it freely and give the copies away to anyone
-you wish, at no cost.  They are in turn requested to
-send in a contribution if they decide to use it.
 
-The user supported software concept (often referred to
-as "shareware") is an attempt to provide software at low
-cost.  The cost of offering a new product by
-conventional means is staggering, and hence dissuades
-many independent authors and small companies from
-developing and promoting their ideas.  User supported
-software is an attempt to develop a new marketing
-channel, where products can be introduced at low cost.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 ARC                                              Page 1
-If user supported software works, then everyone will
-benefit.  The user will benefit by receiving quality
-products at low cost, and by being able to "test
-drive" software thoroughly before purchasing it.  The
-author benefits by being able to enter the commercial
-software arena without first needing large sources of
-venture capital.
-
-But it can only work with your support.  We're not
-just talking about ARC here, but about all user
-supported software.  If you obtain a user supported
-program from a friend or colleague, and are still
-using it after a couple of weeks, then it is obviously
-worth something to you, and a contribution should be
-sent.
+         INTRODUCTION
 
 
-
-And now, back to ARC:
 
 ARC is used to create and maintain file archives.  An
 archive is a group of files collected together into
@@ -212,6 +197,22 @@ three methods are:
 Note that since one of the three methods involves no
 compression at all, the resulting archive entry will
 never be larger than the original file.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1196,14 +1197,14 @@ If you run ARCE with no arguments at all, then it will
 give you a brief reminder of how to use it.
 
 
-NOTICE:NOTICE: ARCE is the copyrighted property of Vernon D.
-        Buerg and Wayne Chin.  It is included on the
-        ARC program disk as a service to ARC users.
+NOTICE: ARCE is not Free Software, and thus is not included with this version
+of ARC.
 
-        Vernon D. Buerg
-        456 Lakeshire Drive
-        Daly City, CA  94015
-        RBBS: (415) 994-2944
+
+
+
+
+
 
 
 
@@ -1303,13 +1304,13 @@ A: ARC.EXE.  One or more people have been running ARC
    worth the extra step in development in this case.
 
 
-Q: How can I get the latest version of ARC?
 
-A: ARC updates are distributed through normal
-   shareware channels, and by FidoNet.  We also ship a
-   program update disk on every order of $50 or more.
-   Also, please refer to the next section for
-   information about our maintenance contracts.
+
+
+
+
+
+
 
 
 
@@ -1318,31 +1319,7 @@ A: ARC updates are distributed through normal
 
 
 ARC                                             Page 22
-Q: Can I use ARC to distribute my public domain or
-   shareware program?
-
-A: Yes, of course.
-
-
-Q: Can I use ARC to distribute my commercial software
-   package?
-
-A: Yes, provided that you obtain a commercial
-   distribution license from us.  Please contact us
-   for details.
-
-
-Q: I'm a commercial user.  Why should I pay for
-   shareware that others get for free?
-
-A: Because you cannot credibly plead poverty.
-              ___   Shareware, all shareware, is an attempt to develop
-   a new marketing channel to the benefit of everyone.
-   You can still "test drive" shareware for a short
-   period, but if you decide to use it in your
-   business, then you should pay for it.
-
-
+
 Q: Why not allow me to select which method of
    compression I want ARC to use?
 
@@ -1372,18 +1349,42 @@ A: It would needlessly complicate ARC, both internally
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ARC                                             Page 23
-     MAINTENANCE CONTRACTS
+
 
 
 
-Registered users of ARC receive 90 days of telephone
-support at no extra charge.  If you wish, you can
-extend this by pruchasing a maintenance contract.
 
-A maintenance contract costs $50 per year and entitles
-you to unlimited telephone support, as well as free
-updates to ARC as they come out.
+
+
+
+
+
+
 
 
 
@@ -1923,178 +1924,3 @@ distribute ARC.
 
 
 ARC                                             Page 33
-         SITE LICENSES
-
-
-
-Corporate users may wish to obtain a site license for
-the use of ARC.  Please use the order form in this
-manual to order a site license.  Site licenses are
-granted as of when we receive your payment.  License
-fees vary depending on the number of computers on
-which ARC will be used, as follows:
-
-     1 to  9 machines  $35 each
-    10 to 24 machines  $25 each
-    25 to 49 machines  $20 each
-    50 to 99 machines  $15 each
-    over  99 machines  $1500 one time fee
-
-
-
-Enclosed is a site license agreement, which should be
-signed and sent with your payment when ordering a
-commercial site license.
-
-
-A commercial site license does not include additional
-copies of the ARC program disk and the ARC manual.
-Instead, you make your own copies of the disk and
-manual as you need them.  If you wish, you can order
-additional program disks and manuals from us.
-
-Additional program disks cost $10 each.  Additional
-manuals cost $20 each.  If you wish, you can order
-program sets for $40 each.  A "program set" is a
-program disk and manual enclosed in a vinyl binder.
-There is a $50 minimum on all orders.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ARC                                             Page 34
-             SITE LICENSE APPLICATION
-
-
-
-The use of ARC in a commercial environment or government organization
-is granted under the following terms:
-
-1.  Payment of the license fee must be made to System Enhancement
-    Associates, Inc.  The fee is based on the number of computers
-    which will be used to run ARC, as follows:
-
-          1 to  9 machines  $35 each
-         10 to 24 machines  $25 each
-         25 to 49 machines  $20 each
-         50 to 99 machines  $15 each
-         over  99 machines  $1500 one time fee
-
-2.  You may use ARC on the number of computers included in the license
-    fee.  If you have paid the fee for over 99 machines, then you may
-    use ARC on any number of computers within your organization.
-
-3.  You may make copies of the program and documentation, in their
-    original,  unmodified form,  without restriction.  You may
-    distribute these copies without restriction.
-
-4.  If these copies are distributed outside of your organization,  you
-    have no obligation to control the use of those copies which are
-    outside of your organization.
-
-5.  You may make copies of the program documentation, in both its
-    printed form and machine readable form, without restriction.
-
-6.  You may use all future versions of ARC under this license.
-
-7.  You may *not* modify the program or charge a fee for copying or
-    distributing the program or its documentation.
-
-8.  It is your responsibility to make the necessary copies and to
-    deliver them to the computers which they will be used on.  If you
-    wish, you can order additional ARC program disks and manuals.
-
-9.  We are not responsible for *anything* that may happen or not happen
-    if you use ARC.  You're on your own.
-
-
-    I agree to abide by the terms and conditions of this license.
-
-    _____________________________         __________________________
-    Signature                             Date
-
-    _____________________________
-    Name (please print or type)
-
-    _____________________________
-    Title
-
-    _____________________________
-    Company
-
-
-                   ORDER FORM
-
-
-
-Check which items you wish to purchase:
-
-    [] Noncommercial license for the use of ARC.
-
-    [] Commercial license for the use of ARC on ___ computers (see
-       attached price schedule and terms).
-
-    [] Program disk and documentation (only on orders of $50 or more,
-       not counting maintenance contracts).
-
-    [] ____ additional program disks at $10 per disk.
-
-    [] ____ additional manuals at $20 per manual
-
-    [] ____ additional program sets (disk, manual, and binder) at $40
-       per program set.
-
-    [] One year maintenance agreement at $50 per year.
-
-    [] Payment of $_____ is enclosed (check or money order).
-
-    [] Please charge $_____ to my [] Visa or [] MasterCard:
-
-      Card number:  _______________________________
-
-      Expiration date:  ___________________________
-
-      Signature:  _________________________________
-
-    _______________________________________________
-    Name
-
-    _______________________________________________
-
-
-    _______________________________________________
-    Address
-
-    ______________________   ________  ____________
-    City                     State     Zip
-
-    _______/_______
-    FidoNet address
-
-
-Send this completed form to:
-
-                  System Enhancement Associates, Inc.
-                     21 New Street, Wayne NJ 07470
-
-For program disk orders outside the U.S., please add an additional $5,
-and enclose an international money order payable in U.S. currency.
-
-For commercial site license orders, please enclose a signed copy of
-the site license agreement.
-
